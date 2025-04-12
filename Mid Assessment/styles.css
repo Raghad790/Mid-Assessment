@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(
+    to right top,
+    #d16ba5,
+    #ba83ca,
+    #8aa7ec,
+    #52cffe,
+    #5ffbf1
+  );
+
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+.error {
+  color: red;
+}
+.card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

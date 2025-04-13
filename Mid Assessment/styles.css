@@ -13,7 +13,9 @@ body {
     #52cffe,
     #5ffbf1
   );
-
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   min-height: 100vh;
   font-family: Arial, sans-serif;
 }
